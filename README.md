@@ -27,7 +27,7 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 5.	For different input combinations generate the timing diagram.
 
 **PROGRAM**
-### Developed by: SELVALAKSHMI S Register Number:212224050045
+### Developed by:SELVALAKSHMI S Register Number:212224050045
 ```
 module ripple_counter(
      input wire clk,
